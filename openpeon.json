@@ -1,0 +1,410 @@
+{
+    "cesp_version": "1.0",
+    "name": "originalwar-peons",
+    "display_name": "Original War Peons",
+    "version": "1.0.0",
+    "author": {
+        "name": "Hajadlo",
+        "github": "Hajadlo"
+    },
+    "license": "CC-BY-NC-4.0",
+    "language": "en",
+    "categories": {
+        "session.start": {
+            "sounds": [
+                {
+                    "file": "sounds/am_joan_rb_2.mp3",
+                    "label": "Joan: Standing by",
+                    "sha256": "f4723c92e64cae2cffa6c2477e8da4a431d99bc05e251ba93faabc5248c23f17"
+                },
+                {
+                    "file": "sounds/ru_bur_rb_2.mp3",
+                    "label": "Burlak: Standing by",
+                    "sha256": "979dcb56b27b2710ecc24a0bb96eefdaece58f3dd31b6dc40b03c02c369e81ee"
+                },
+                {
+                    "file": "sounds/am_glad_re_1.mp3",
+                    "label": "Gladstone: At your service",
+                    "sha256": "8bafddd3bd2dabbcca64a6c7d70758643742ea83923c18d3114800495ecdf165"
+                },
+                {
+                    "file": "sounds/am_jmm_ra_2.mp3",
+                    "label": "Macmillan: Ready",
+                    "sha256": "af5c502bbd3cb202b778f57192c1f54f2827a890ba2fe17742afdf226561e788"
+                },
+                {
+                    "file": "sounds/ru_kir_re_1.mp3",
+                    "label": "Kirilenkova: At your service",
+                    "sha256": "bede1b8024bdef63969c410e5dd79e6194db0c6cb6a6030fc925c20a1bfa15d3"
+                },
+                {
+                    "file": "sounds/ru_gos_re_1.mp3",
+                    "label": "Gossudarov: At your service",
+                    "sha256": "96e19cbe07b032eff78b4050727f4cc565adb58d750525c53aa35c222b5a991b"
+                },
+                {
+                    "file": "sounds/ru_gny_ra_2.mp3",
+                    "label": "Gnyevko: Ready",
+                    "sha256": "0a0557aab11f185eae0604b76d65eac389d149cd9830e16217f7bf9baf494248"
+                },
+                {
+                    "file": "sounds/ru_bel_rb_2.mp3",
+                    "label": "Belkov: Standing by",
+                    "sha256": "6e5135eb72e716b16b9209b53ba3a438ec30844edc6defc92bee2a3a02bc1776"
+                }
+            ]
+        },
+        "task.acknowledge": {
+            "sounds": [
+                {
+                    "file": "sounds/ru_bel_ca_1.mp3",
+                    "label": "Belkov: Acknowledged",
+                    "sha256": "6a4fde090a8efbb5458702738f99e287b59b7154039376c1953198f047ce62ed"
+                },
+                {
+                    "file": "sounds/am_don_ca_2.mp3",
+                    "label": "Donaldson: Acknowledged",
+                    "sha256": "247f614653f9d092fe0f2b11a7871daec0a0048f86c4ba69ba1d823ccbf55fab"
+                },
+                {
+                    "file": "sounds/ru_bur_ma_1.mp3",
+                    "label": "Burlak: Moving out",
+                    "sha256": "088fc8cf65e6a79a09d3e597ae7868e150ec984d5407218c596193c7a65296ca"
+                },
+                {
+                    "file": "sounds/ru_tit_ca_1.mp3",
+                    "label": "Titov: Acknowledged",
+                    "sha256": "8ca79e8da134494b626c898160bf44b7992e0d0c403540c4014f1549747fb7c1"
+                },
+                {
+                    "file": "sounds/ru_kir_ca_2.mp3",
+                    "label": "Kirilenkova: Acknowledged",
+                    "sha256": "b4b268ed17d6dcc02fae390a963d851f8ad46395aacbeefc9cd90ab928c465ed"
+                },
+                {
+                    "file": "sounds/am_joan_ca_1.mp3",
+                    "label": "Joan: Acknowledged",
+                    "sha256": "6f5a1e4869e4bd67ba973087e8a7816a0786686e8ea1169ec138b7f3026fd699"
+                },
+                {
+                    "file": "sounds/am_corn_mb_2.mp3",
+                    "label": "Cornell: On the move",
+                    "sha256": "8cdb5be1b0a280317a2b5928fa5980090b12707d7c4b03eb6d637c0b313a9e8f"
+                },
+                {
+                    "file": "sounds/ru_gny_ca_1.mp3",
+                    "label": "Gnyevko: Acknowledged",
+                    "sha256": "5cb28b707e2ba9abb3cb0308ab4760032daa882530330632cb21426a3c624f11"
+                }
+            ]
+        },
+        "task.complete": {
+            "sounds": [
+                {
+                    "file": "sounds/am_lisa_fc_2.mp3",
+                    "label": "Lisa: Vehicle ready",
+                    "sha256": "7ecccd219c403b7d106349fef57125071dda049032fbfd9807764069f3173a9a"
+                },
+                {
+                    "file": "sounds/am_cyrus_fa_2.mp3",
+                    "label": "Cyrus: Task complete",
+                    "sha256": "6fca8eda484b957b0524dc67abbf6a6da462bd49110d298417f4dca7cf5ab62e"
+                },
+                {
+                    "file": "sounds/am_glad_fg_1.mp3",
+                    "label": "Gladstone: Done",
+                    "sha256": "58ea27dbd469283fac859f268a43fa5e10726ec8381eab4eca1003d7a8a8eabd"
+                },
+                {
+                    "file": "sounds/ru_gos_fc_1.mp3",
+                    "label": "Gossudarov: Vehicle ready",
+                    "sha256": "a5a0fa050b65dbe26dac033310c403f2e2541ef9177875299292180ba144cdbe"
+                },
+                {
+                    "file": "sounds/ru_bur_fd_1.mp3",
+                    "label": "Burlak: Finished",
+                    "sha256": "db8dc35329e3f204859c6008775baa0a7d36a0f69b0c360cb0b74176a66ccb86"
+                },
+                {
+                    "file": "sounds/am_joan_fc_2.mp3",
+                    "label": "Joan: Vehicle ready",
+                    "sha256": "11c89beb179eb0f310cddfeea3a1a47ae6f0b65cb51ca143e328da707e6e7d2d"
+                },
+                {
+                    "file": "sounds/am_jmm_fb_1.mp3",
+                    "label": "Macmillan: Building done",
+                    "sha256": "37650e45efc55f26ec840c807c6d7585d691c21ac73fa98769005fe71b2eb1bf"
+                },
+                {
+                    "file": "sounds/ru_glb_fb_1.mp3",
+                    "label": "Gleb: Building done",
+                    "sha256": "be1a2ce1306598bdec1c0b4c1973c28b638b011d076619cc3c547a97f93c0cd7"
+                }
+            ]
+        },
+        "task.error": {
+            "sounds": [
+                {
+                    "file": "sounds/ru_bel_na_2.mp3",
+                    "label": "Belkov: Can't do that",
+                    "sha256": "2fd9e00e1e0f8db38ac770e93124f1394ae6a0ef3dea499f2d1eb4a140be8f7a"
+                },
+                {
+                    "file": "sounds/ru_gos_na_1.mp3",
+                    "label": "Gossudarov: Can't do that",
+                    "sha256": "294b43264ae8aa2aa8e94bd27cfd317e8b8275d912d2f56a6a760b22df01c29b"
+                },
+                {
+                    "file": "sounds/ru_gla_na_1.mp3",
+                    "label": "Gladkov: Can't do that",
+                    "sha256": "c53b183399953fc79fc01cc13e9ade9ff663c7da459718aae47eb095e89dd440"
+                },
+                {
+                    "file": "sounds/ru_gny_na_2.mp3",
+                    "label": "Gnyevko: Can't do that",
+                    "sha256": "ef35c2de4bf97b4ad2cead9bfd6e094a57b0dc9c3619eaf2634c2be90cafe577"
+                },
+                {
+                    "file": "sounds/am_corn_na_1.mp3",
+                    "label": "Cornell: Can't do that",
+                    "sha256": "12d9efea6c70746318e225faa630a27c18290fbc95b8845c8ab82667e6715c8d"
+                },
+                {
+                    "file": "sounds/am_bobby_na_1.mp3",
+                    "label": "Bobby: Can't do that",
+                    "sha256": "3b60ed3437ab1920456fce89db22a80b17d9348ea1bc8fda65321b997bf4a03c"
+                },
+                {
+                    "file": "sounds/ru_glb_na_1.mp3",
+                    "label": "Gleb: Can't do that",
+                    "sha256": "b403ca0dd4084279b5f52256b3638c83be491f2c88f8a426e0dd669cbff763bc"
+                },
+                {
+                    "file": "sounds/ru_tit_na_1.mp3",
+                    "label": "Titov: Can't do that",
+                    "sha256": "c091784d4a4a37de90597d8e32bb73215955498469d408be5d080e0adea002e9"
+                }
+            ]
+        },
+        "input.required": {
+            "sounds": [
+                {
+                    "file": "sounds/ru_bel_ia_1.mp3",
+                    "label": "Belkov: Awaiting orders",
+                    "sha256": "7390339b71d7bee9bacce4d298aca8b55dfcf67828f545e15226eb47f7893345"
+                },
+                {
+                    "file": "sounds/am_joan_ia_1.mp3",
+                    "label": "Joan: Awaiting orders",
+                    "sha256": "680ca3a52f6e6b3f45712c7959953ab365a9c9e8424a9b0a33e093b7cafffdfc"
+                },
+                {
+                    "file": "sounds/am_cyrus_ia_1.mp3",
+                    "label": "Cyrus: Awaiting orders",
+                    "sha256": "e08f1684329c1e09ff3df9d98967eaa1d5ae1367fd71221fe5b501d638776fbb"
+                },
+                {
+                    "file": "sounds/am_don_ia_1.mp3",
+                    "label": "Donaldson: Awaiting orders",
+                    "sha256": "e12ddb5de1591f0eb0d81de86210ac4b9206405ff09c3fb7869c9118b3d2344e"
+                },
+                {
+                    "file": "sounds/ru_gos_ia_1.mp3",
+                    "label": "Gossudarov: Awaiting orders",
+                    "sha256": "85bb06fb2bc48e021f6c84573e4eb043a8ac0187baec63ae9024ca2ca9b8c711"
+                },
+                {
+                    "file": "sounds/ru_gny_ia_2.mp3",
+                    "label": "Gnyevko: Awaiting orders",
+                    "sha256": "989ecec77c36604cbec5bfb8549deb7d89ed32939f5000207defaa40bb11974a"
+                },
+                {
+                    "file": "sounds/ru_gla_ia_1.mp3",
+                    "label": "Gladkov: Awaiting orders",
+                    "sha256": "78d89db541de372aa2111d2e4544e81fb24b28857a48c1d3538e1163dfc32c8e"
+                },
+                {
+                    "file": "sounds/am_lisa_ia_2.mp3",
+                    "label": "Lisa: Awaiting orders",
+                    "sha256": "fbf33eb258071c7e6891d4e6b06e40eab0960fa1be52b7eb8a3141077a84bcc8"
+                }
+            ]
+        },
+        "resource.limit": {
+            "sounds": [
+                {
+                    "file": "sounds/am_don_xb_1.mp3",
+                    "label": "Donaldson: Resources depleted",
+                    "sha256": "fc1fa8337e6650a8f63ce3eb1a530e2ddd21d67cf710008ee57cc16a19e033e5"
+                },
+                {
+                    "file": "sounds/am_joan_xd_1.mp3",
+                    "label": "Joan: Low on fuel",
+                    "sha256": "4831126864173a0c6f3e7f32a8a53d09886e4cae9892c2edd14558b731339aee"
+                },
+                {
+                    "file": "sounds/ru_bel_xb_1.mp3",
+                    "label": "Belkov: Resources depleted",
+                    "sha256": "346bf2810f28bd5972b68b0ee7c73a0413d65449c4bb99cea7526833f5f6d6b6"
+                },
+                {
+                    "file": "sounds/ru_gla_xd_1.mp3",
+                    "label": "Gladkov: Low on fuel",
+                    "sha256": "b97a8378ee8328c25c8fa4688df606629bde0dd4599d35479ee55854f5c4a3a8"
+                },
+                {
+                    "file": "sounds/am_cyrus_xb_1.mp3",
+                    "label": "Cyrus: Resources depleted",
+                    "sha256": "31254c223cbff25a5434cae9d636f7121051c2cd4f18cbb1395a834ce9923705"
+                },
+                {
+                    "file": "sounds/am_glad_xd_2.mp3",
+                    "label": "Gladstone: Low on fuel",
+                    "sha256": "b26f24e6c8a7f7c41f873b342907ac6b2272cff9145b8199bef41e29a8232589"
+                },
+                {
+                    "file": "sounds/am_jmm_xd_1.mp3",
+                    "label": "Macmillan: Low on fuel",
+                    "sha256": "0f3426c41de3c2de678c828f688219fc449754945b367ab9af4284c2b1cc44cc"
+                },
+                {
+                    "file": "sounds/ru_gny_xd_1.mp3",
+                    "label": "Gnyevko: Low on fuel",
+                    "sha256": "c363c907162f560620d56caae43544e06a5ba3bc66ec8c673ce0f4ddbd978463"
+                }
+            ]
+        },
+        "user.spam": {
+            "sounds": [
+                {
+                    "file": "sounds/ru_tit_oa_2.mp3",
+                    "label": "Titov: Annoyed",
+                    "sha256": "3eed1b787beba112196b79808cbf5e8f3ade9371d0fd1959c7125e34c7130ed2"
+                },
+                {
+                    "file": "sounds/am_glad_og_2.mp3",
+                    "label": "Gladstone: Angry",
+                    "sha256": "bc71afd537ac0f535b2dd70ab025c4b953b28163370847f36d35916646fc24a8"
+                },
+                {
+                    "file": "sounds/am_cyrus_oa_2.mp3",
+                    "label": "Cyrus: Annoyed",
+                    "sha256": "734ee01502a4eb5b42e6340a53a3ab2e0d0b7713c76b70566597dae6c63ec7a4"
+                },
+                {
+                    "file": "sounds/ru_glb_oa_2.mp3",
+                    "label": "Gleb: Annoyed",
+                    "sha256": "acb9601e063582435e2e042b08206d04e49cdf27a8ef83e7bd8fe823179ba730"
+                },
+                {
+                    "file": "sounds/am_lisa_oh_2.mp3",
+                    "label": "Lisa: Very annoyed",
+                    "sha256": "17483bfd01e410aeed0e938a5c8386fc3e235243bf09023b5b5d45423dea1519"
+                },
+                {
+                    "file": "sounds/ru_bur_og_1.mp3",
+                    "label": "Burlak: Angry",
+                    "sha256": "f681a75d24ede62488dfc043108a411799389e877531c4d6472ed6562fdadbe5"
+                },
+                {
+                    "file": "sounds/am_frank_oa_2.mp3",
+                    "label": "Frank: Annoyed",
+                    "sha256": "0c338dfbecb7afed674abb4e6141253ee873b4c3ac7c13163486aacb92f00757"
+                },
+                {
+                    "file": "sounds/ru_gos_oi_1.mp3",
+                    "label": "Gossudarov: Irritated",
+                    "sha256": "13f59b56881d66be31799ab6065c37d95f875046fe0383e81a5ae09f06aa748c"
+                }
+            ]
+        },
+        "session.end": {
+            "sounds": [
+                {
+                    "file": "sounds/am_bobby_wa_1.mp3",
+                    "label": "Bobby: Wounded",
+                    "sha256": "5cc2144683776c8ef586a1973b9bad40ab380e8653a79bc7060022cd97193fc1"
+                },
+                {
+                    "file": "sounds/ru_gny_wa_1.mp3",
+                    "label": "Gnyevko: Wounded",
+                    "sha256": "25f9f162e5891b06ccfd5474bb0bd358fe8de477db4fc060654a54a6c632a9c4"
+                },
+                {
+                    "file": "sounds/ru_bel_ua_1.mp3",
+                    "label": "Belkov: Critical condition",
+                    "sha256": "84d1bf9b83b33873c96fd43e9c45083e1c42364592b950c4e613df56c5bfa496"
+                },
+                {
+                    "file": "sounds/ru_gla_ua_1.mp3",
+                    "label": "Gladkov: Critical condition",
+                    "sha256": "d8b92d7e338d422a859d396767125fdba9da4e9450a79b941580ec1e001f8e11"
+                },
+                {
+                    "file": "sounds/am_corn_ua_1.mp3",
+                    "label": "Cornell: Critical condition",
+                    "sha256": "8fb3fa0d178fb1e9f0244b2f933fb4d33f9cc1072adaf6f51abda153b3cb38d3"
+                },
+                {
+                    "file": "sounds/am_glad_ua_2.mp3",
+                    "label": "Gladstone: Critical condition",
+                    "sha256": "3002d4c48c5a745684ecf00f8d90f3ff288787b6957b7e506631b0b2b698de22"
+                },
+                {
+                    "file": "sounds/ru_gos_wa_1.mp3",
+                    "label": "Gossudarov: Wounded",
+                    "sha256": "43f8b856842abc54b2d0abde7a33b8f8e8bd7c038cd2084e46d064324696c2cc"
+                },
+                {
+                    "file": "sounds/am_don_ua_1.mp3",
+                    "label": "Donaldson: Critical condition",
+                    "sha256": "05a99483860b31ffbbbe99fa8bf451a50fd58fd87b0879b5ac3e6c6a0f1f7598"
+                }
+            ]
+        },
+        "task.progress": {
+            "sounds": [
+                {
+                    "file": "sounds/am_frank_ec_2.mp3",
+                    "label": "Frank: Contact",
+                    "sha256": "3a672287066f86f1f0f520a48e89d73bdf8534532e07350ac899f234f33be88c"
+                },
+                {
+                    "file": "sounds/am_glad_ee_2.mp3",
+                    "label": "Gladstone: Eyes on target",
+                    "sha256": "ed088a8fb98c1f00994005af28278ca5f0d45f73048fa7713b16c7516bf096f7"
+                },
+                {
+                    "file": "sounds/ru_bel_ec_1.mp3",
+                    "label": "Belkov: Contact",
+                    "sha256": "06311aec260d44cc79dd1412e33d5512e0c4b9256b09d0573668bc4002ff0d15"
+                },
+                {
+                    "file": "sounds/am_lisa_lc_2.mp3",
+                    "label": "Lisa: Promoted",
+                    "sha256": "a9d4ee9b5c17c716a28cf050f066a8b3122cba07228d72f113a19410a15e83fc"
+                },
+                {
+                    "file": "sounds/ru_kir_eb_1.mp3",
+                    "label": "Kirilenkova: Found supplies",
+                    "sha256": "503efae5543a837c9e18c537b8f0c4aa27788e265e38a22b5cd7dbfa2c32d060"
+                },
+                {
+                    "file": "sounds/am_cyrus_ee_1.mp3",
+                    "label": "Cyrus: Eyes on target",
+                    "sha256": "fbe4e48317f23b99f07dfc429df92d51d6f698b40eeba437d7bcb898e888ebd4"
+                },
+                {
+                    "file": "sounds/am_jmm_ed_2.mp3",
+                    "label": "Macmillan: Target acquired",
+                    "sha256": "e7044ead4b646beeb70deee215097c6bf1fb51c3ade8ad264d2dd7cd41e17f59"
+                },
+                {
+                    "file": "sounds/ru_glb_eb_1.mp3",
+                    "label": "Gleb: Found supplies",
+                    "sha256": "3405df8572ac7957e2d112cb260eab518ce5defd7162ca19ab82ec6639f7a356"
+                }
+            ]
+        }
+    }
+}
