@@ -6,7 +6,7 @@ A [PeonPing](https://openpeon.com) / OpenPeon CESP v1.0 sound pack featuring Cze
 
 ## Contents
 
-76 voice lines (Czech dub) — 59 hand-picked iconic lines + 17 defaults filling gaps — from characters across both the American and Russian campaigns:
+76 voice lines (Czech dub) from characters across both the American and Russian campaigns:
 
 **American**: John Macmillan, Lisa Lawson, Joan Fergusson, Frank Forsyth, Andy Cornell, Cyrus Parker, Lucy Donaldson, Bobby Brandon
 
@@ -14,17 +14,17 @@ A [PeonPing](https://openpeon.com) / OpenPeon CESP v1.0 sound pack featuring Cze
 
 ## Categories
 
-| Category | Sounds | Picked | Source |
-|---|---|---|---|
-| `session.start` | 6 | 0 | Ready/Select exclamations |
-| `task.acknowledge` | 6 | 5 | Confirm/Move responses |
-| `task.complete` | 11 | 11 | Task finished lines |
-| `task.error` | 9 | 9 | Negative / Hurt / Under fire |
-| `input.required` | 6 | 2 | Idle / Awaiting orders |
-| `resource.limit` | 7 | 7 | Trapped / Depleted / Sick / Low fuel |
-| `user.spam` | 6 | 3 | Annoyed reactions |
-| `session.end` | 6 | 3 | Critical / Wounded lines |
-| `task.progress` | 19 | 19 | Battle / Spotted / Level-up |
+| Category | Sounds | Source |
+|---|---|---|
+| `session.start` | 6 | Ready/Select exclamations |
+| `task.acknowledge` | 6 | Confirm/Move responses |
+| `task.complete` | 11 | Task finished lines |
+| `task.error` | 9 | Negative / Hurt / Under fire |
+| `input.required` | 6 | Idle / Awaiting orders |
+| `resource.limit` | 7 | Trapped / Depleted / Sick / Low fuel |
+| `user.spam` | 6 | Annoyed reactions |
+| `session.end` | 6 | Critical / Wounded lines |
+| `task.progress` | 19 | Battle / Spotted / Level-up |
 
 ## Audio
 
