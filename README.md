@@ -1,14 +1,14 @@
 # Original War Peons
 
-A [PeonPing](https://openpeon.com) / OpenPeon CESP v1.0 sound pack featuring voice lines from **Original War** (2001) by Altar Interactive.
+A [PeonPing](https://openpeon.com) / OpenPeon CESP v1.0 sound pack featuring Czech voice lines from **Original War** (2001) by Altar Interactive.
 
 ## Contents
 
-72 voice lines from 17 named characters across both the American and Russian campaigns:
+72 voice lines (Czech dub) from 16 named characters across both the American and Russian campaigns:
 
-**American**: John Macmillan, Lisa Lawson, Joan Fergusson, Frank Forsyth, Andy Cornell, Cyrus Parker, Tim Gladstone, Lucy Donaldson, Bobby Brandon
+**American** (8): John Macmillan, Lisa Lawson, Joan Fergusson, Frank Forsyth, Andy Cornell, Cyrus Parker, Lucy Donaldson, Bobby Brandon
 
-**Russian**: Burlak, Belkov, Gnyevko, Gleb, Gladkov, Titov, Gossudarov, Kirilenkova
+**Russian** (8): Burlak, Belkov, Gnyevko, Gleb, Gladkov, Titov, Gossudarov, Kirilenkova
 
 ## Categories
 
@@ -26,10 +26,11 @@ A [PeonPing](https://openpeon.com) / OpenPeon CESP v1.0 sound pack featuring voi
 
 ## Audio
 
+- Language: Czech (cs)
 - Format: MP3 128kbps, 44.1kHz mono
 - Loudness: EBU R128 normalized to -16 LUFS, -1.5 dBTP
 - Duration: 0.3 - 3.5 seconds per clip
-- Total pack size: ~1.5 MB
+- Total pack size: ~1.7 MB
 
 ## Installation
 
@@ -42,7 +43,7 @@ Copy the `originalwar-peons` directory (containing `openpeon.json` and `sounds/`
 ## Credits
 
 - **Game**: Original War (2001) by Altar Interactive / Bohemia Interactive
-- **Voice actors**: Original War cast
+- **Voice actors**: Original War Czech dub cast
 - **Pack author**: [Hajadlo](https://github.com/Hajadlo)
 
 ## License
